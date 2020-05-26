@@ -1,0 +1,11 @@
+.header{
+    color: white;
+    font-family: "Times New Roman";
+}
+.headtext{
+    padding: 20px;
+}
+hr.new5 {
+    border: 2px solid rosybrown;
+    border-radius: 0px;
+}
