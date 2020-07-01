@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import DashBoard from "./Components/DashBoard";
 
 function App() {

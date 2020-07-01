@@ -4,8 +4,13 @@
 }
 .headtext{
     padding: 20px;
+    text-align: center;
 }
 hr.new5 {
     border: 2px solid rosybrown;
     border-radius: 0px;
+}
+
+.date{
+    text-align: center;
 }
